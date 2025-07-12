@@ -3,7 +3,6 @@
 - Learn and apply core Python concepts
 - Improve problem-solving and coding fluency
 - Build a strong foundation for data engineering and backend development
-- Prepare for interviews and real-world software roles
 
 ## 🛠️ How to Use
 
